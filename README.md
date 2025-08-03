@@ -2,20 +2,17 @@
 A Python implementation of a neural network built from scratch to classify handwritten digits 0 and 1. Uses synthetic data generation instead of MNIST downloads, implements forward/backward propagation with NumPy, and includes visualization tools for training progress and custom image testing.
 Table of Contents
 
-Overview
-Features
-Installation
-Usage
-Project Structure
-How It Works
-Results
-Testing Custom Images
-Code Documentation
-Educational Value
-Requirements
-License
+# Overview
+# Features
+# Installation
+# Usage
+# Project Structure
+# How It Works
+# Results
+# Testing Custom Images
+# Code Documentation
 
-Overview
+# Overview
 This project demonstrates the fundamental concepts of neural networks by implementing a binary classifier from scratch. Instead of relying on machine learning frameworks, it uses only NumPy for mathematical operations and Matplotlib for visualization, making it ideal for understanding the underlying mechanics of neural networks.
 The network learns to distinguish between handwritten 0s and 1s using synthetic training data, achieving over 96% accuracy on test data.
 Features
