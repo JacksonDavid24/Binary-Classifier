@@ -162,11 +162,3 @@ The code includes 100 numbered footnotes [1-100] that explain:
 - Error handling and edge cases
 
 These annotations are referenced in the comprehensive documentation guide included with the project.
-
-cense
-
-MIT License - See LICENSE file for details.
-
----
-
-**Educational Use:** This project is specifically designed for learning and teaching neural network fundamentals. Feel free to modify, extend, and use for educational purposes.
