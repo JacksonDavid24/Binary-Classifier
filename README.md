@@ -1,21 +1,10 @@
 # Binary Neural Network: Handwritten Digit Classifier (0s vs 1s)
 A Python implementation of a neural network built from scratch to classify handwritten digits 0 and 1. Uses synthetic data generation instead of MNIST downloads, implements forward/backward propagation with NumPy, and includes visualization tools for training progress and custom image testing.
-Table of Contents
-
-# Overview
-# Features
-# Installation
-# Usage
-# Project Structure
-# How It Works
-# Results
-# Testing Custom Images
-# Code Documentation
 
 # Overview
 This project demonstrates the fundamental concepts of neural networks by implementing a binary classifier from scratch. Instead of relying on machine learning frameworks, it uses only NumPy for mathematical operations and Matplotlib for visualization, making it ideal for understanding the underlying mechanics of neural networks.
 The network learns to distinguish between handwritten 0s and 1s using synthetic training data, achieving over 96% accuracy on test data.
-Features
+# Features
 
 Pure Python Implementation: No ML frameworks - just NumPy and Matplotlib
 Synthetic Data Generation: Creates 2000 realistic digit images with natural variations
@@ -25,12 +14,13 @@ Custom Image Testing: Load and test your own handwritten digits
 Comprehensive Documentation: 100+ inline code annotations
 Educational Focus: Clear explanations of every concept and implementation detail
 
-Installation
+# Installation
 Prerequisites
-bash# Required packages
+bash:
+#Required packages
 pip install numpy matplotlib jupyter
 
-# Optional (for custom image testing)
+#Optional (for custom image testing)
 pip install Pillow
 Setup
 
